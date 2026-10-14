@@ -245,7 +245,3 @@ fig_anim.update_layout(
 )
 
 st.plotly_chart(fig_anim, use_container_width=True)
-    ),
-    frames=frames
-)
-st.plotly_chart(fig, use_container_width=True)
